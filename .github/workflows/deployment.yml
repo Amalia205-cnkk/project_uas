@@ -1,4 +1,4 @@
-name: Deploy NestJS
+name: Deploy with Docker Compose
 
 on:
   push:
